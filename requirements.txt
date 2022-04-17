@@ -91,7 +91,7 @@ sqlparse==0.2.4
 terminaltables==3.1.0
 toml==0.10.1
 tqdm==4.50.2
-urllib3==1.26.5
+urllib3
 wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==1.0.1
